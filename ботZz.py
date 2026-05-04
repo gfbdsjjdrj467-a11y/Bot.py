@@ -11,7 +11,7 @@ from aiogram.filters import Command
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger(__name__)
 
-API_TOKEN = '8799124007:AAGus3HI7KaBbLNPxdB_TA99KYjtQmiNaws'
+API_TOKEN = '8773442422:AAH8WlnXUrZsCuvo1xsjnbAZ8ngUGIuaAS4'
 
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode="HTML"))
 dp = Dispatcher()
